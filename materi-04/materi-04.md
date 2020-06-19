@@ -32,7 +32,7 @@ Kemudian verifikasi bahwa pembuatan service telah diterima oleh Swarm manager. S
 Kemudian melihat replika container yang dibuat secara real-time.
 ![gambar-15](gambar-15.jpg)<br/>
 ![gambar-16](gambar-16.jpg)<br/>
-![gambar-17](/gambar-17.jpg)<br/>
+![gambar-17](gambar-17.jpg)<br/>
 Dimana dari hasil diatas terdapat 7 container yang berjalan.
 8. Melakukan replika layanan kembali menjadi hanya 4 kontainer dengan melakukan pembaruan layanan docker container. Seperti pada perintah dan hasilnya dibawah ini :<br/>
 ![gambar-18](gambar-18.jpg)<br/>
